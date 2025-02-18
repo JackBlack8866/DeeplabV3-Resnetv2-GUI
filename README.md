@@ -9,3 +9,6 @@ GUI
 ![image](https://github.com/JackBlack8866/DeeplabV3-Resnetv2-GUI/blob/main/%E5%9B%BE%E7%89%87/GUI.png)
 # 操作展示
 BiliBili:
+https://www.bilibili.com/video/BV1s5A8edE2X/?vd_source=06d48973362ec13e6685aa79bd91b9a1
+
+注：其中C++代码为前端展示，不用也可以。
