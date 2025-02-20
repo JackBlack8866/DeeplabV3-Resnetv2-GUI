@@ -12,4 +12,4 @@ GUI
 BiliBili: 
 https://www.bilibili.com/video/BV1s5A8edE2X/?vd_source=06d48973362ec13e6685aa79bd91b9a1
 
-注：其中C++代码为前端展示，不用也可以。帮我翻译成英文
+注：其中C++代码为前端展示，不用也可以。
